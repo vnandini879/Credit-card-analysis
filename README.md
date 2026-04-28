@@ -50,7 +50,7 @@ To provide dynamic insights, the following measures were implemented:
 
 ## Dashboard
 ### 1. Customer Report
-![image alt](https://github.com/vnandini879/Credit-card-analysis/blob/4c767c32c5692caa2c2576c0a6f295d9d966b1fd/customer%20report.png)
+![image alt](https://github.com/vnandini879/Credit-card-analysis/blob/fb3bccad1ef366ef0193c0dee7e5e3dbd9ab4d00/credit%20card%20transation.png)
 
 *Focuses on demographics: Age groups, job types, and marital status vs. revenue.*
 
