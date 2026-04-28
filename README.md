@@ -50,13 +50,12 @@ To provide dynamic insights, the following measures were implemented:
 
 ## Dashboard
 ### 1. Customer Report
-![image alt](https://github.com/vnandini879/Credit-card-analysis/blob/fb3bccad1ef366ef0193c0dee7e5e3dbd9ab4d00/credit%20card%20transation.png)
+![image alt](https://github.com/vnandini879/Credit-card-analysis/blob/dd31e705af5dc87c3b7dc6ce1091db96c300aaff/customer.png)
 
 *Focuses on demographics: Age groups, job types, and marital status vs. revenue.*
 
 ### 2. Transaction Report
-![image alt](https://github.com/vnandini879/Credit-card-analysis/blob/bb6d18627e43615f7fcf0e82e569cac3d1a28bce/Transaction%20report.png)
-
+![image alt](https://github.com/vnandini879/Credit-card-analysis/blob/fb3bccad1ef366ef0193c0dee7e5e3dbd9ab4d00/credit%20card%20transation.png)
 *Focuses on operational metrics: Card types, expense categories, and weekly revenue trends.*
 
 ---
