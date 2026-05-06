@@ -55,7 +55,7 @@ To provide dynamic insights, the following measures were implemented:
 *Focuses on demographics: Age groups, job types, and marital status vs. revenue.*
 
 ### 2. Transaction Report
-![image alt](https://github.com/vnandini879/Credit-card-analysis/blob/05bc6316f27a09ab3562b2ea9d26debec7fc452f/Credit%20Card%20Trans%20Report.png)
+![image alt](https://github.com/vnandini879/Credit-card-analysis/blob/8fba7b659c1377154a4255791c7b83d6d02b70c0/Credit%20Card%20Trans%20Report.png)
 *Focuses on operational metrics: Card types, expense categories, and weekly revenue trends.*
 
 ---
