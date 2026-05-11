@@ -16,8 +16,8 @@ This project provides a comprehensive analysis of credit card operations, focusi
 * **Source Data:** CSV (Transaction and Customer datasets)
 
 ## Key Insights (Current Report)
-* **Total Revenue:** ₹57M
-* **Total Interest:** ₹8M
+* **Total Revenue:** ₹53.52M
+* **Total Interest:** ₹7.98M
 * **Total Transaction Amount:** ₹46M
 * **Top Contributing State:** Gujarat, Maharashtra, and Uttar Pradesh are among the leading regions.
 * **Gender Contribution:** Male customers contribute approximately ₹31M in revenue, while Female customers contribute ₹26M.
@@ -62,5 +62,6 @@ To provide dynamic insights, the following measures were implemented:
 
 ### Author
 **Nandini Verma**
-*Data Analyst*
-[GitHub](https://github.com/vnandini879) | [LinkedIn](https://www.linkedin.com/in/Analyst-kashishagrawal/)
+*Data and Business Analyst*
+*[GitHub](https://github.com/vnandini879)*
+*[LinkedIn](https://www.linkedin.com/in/Analyst-kashishagrawal/)*
